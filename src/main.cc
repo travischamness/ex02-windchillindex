@@ -15,7 +15,7 @@ int main(int64_t argc, char *argv[]) {
 
 	cout << "Please enter your local temperature(as long as its less than 10 celcius): ";
 	cin >> t;
-	cout << "/n Please enter your local wind Velocity in Meters/Second: ";
+	cout << "\n Please enter your local wind Velocity in Meters/Second: ";
 	cin >> v;
 	
 	
