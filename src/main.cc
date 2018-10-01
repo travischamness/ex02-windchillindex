@@ -8,7 +8,7 @@ using std::cout;
 using std::endl;
 using std::cin;
 
-int main(int64_t argc, char *argv[]) {
+int main(int argc, char *argv[]) {
 	
 	double t;
 	double v;
