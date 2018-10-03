@@ -36,11 +36,8 @@
 
 #include <climits>
 #include <cmath>
-
 #include <random>
-
 #include "windchillindex.h"
-
 #include "gtest/gtest.h"
 namespace {
 
